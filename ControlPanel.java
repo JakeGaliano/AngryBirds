@@ -23,6 +23,7 @@ public class ControlPanel extends JPanel {
 		_p2 = new ControlPanel2(options);		
 		
 		// Third Column, Choose Difficulty
+		//just adding a comment
 		_p3 = new ControlPanel3(options);
 		
 		
